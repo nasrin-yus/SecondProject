@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Second Project</string>
+    <string name="Toast">Show me Toast</string>
+    <string name="Drawer">Open Drawer Layout</string>
+    <string name="VazirFont">این فونت وزیر است  </string>
+
+
+
+</resources>
