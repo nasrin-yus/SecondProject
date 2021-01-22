@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         //video
-        String url = "https://www.youtube.com/watch?v=PCbNLIdx-Pg";
+        String url = "https://www.aparat.com/v/bGe2P?playlist=614777";
         VideoView video = findViewById(R.id.video);
         video.setVideoURI(Uri.parse(url));
         video.setMediaController(new MediaController(MainActivity.this));
